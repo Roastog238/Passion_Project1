@@ -19,3 +19,7 @@ TECH STACK
   2) Backend:  SPRINGBOOT(JAVA)
   3) Data:     EXTERNAL SPORTS API
   4) Database: NONE FOR THIS PHASE
+
+DATA SOURCES:
+  Football-Data.org API
+  Used for live matches, fixtures, and scores.
